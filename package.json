@@ -1,0 +1,17 @@
+{
+  "author": "Brian Takita <brian.takita@gmail.com.com>",
+  "name": "js-json-deep",
+  "description": "Adds the JSON.deep method, which creates a deep copy of json data structure",
+  "keywords": ["json", "node"],
+  "version": "0.1.0",
+  "homepage": "https://github.com/milyoni/js-json-deep",
+  "repository": "git://github.com/milyoni/js-json-deep.git",
+  "main": "index",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">0.6.0"
+  }
+}
