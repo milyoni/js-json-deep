@@ -1,6 +1,6 @@
 {
   "author": "Brian Takita <brian.takita@gmail.com.com>",
-  "name": "js-json-deep",
+  "name": "json-deep",
   "description": "Adds the JSON.deep method, which creates a deep copy of json data structure",
   "keywords": ["json", "node"],
   "version": "0.1.0",
